@@ -23,17 +23,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-<!-- GitHub Stats (Optional) -->
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshupatil&show_icons=true&theme=radical" alt="Anshu's GitHub Stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupatil&layout=compact&theme=radical" alt="Anshu's Most Used Languages" />
-</p>
-
 <!-- Profile Views Counter (Optional) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshupatil&style=flat-square&color=blue" alt="Profile views" />
