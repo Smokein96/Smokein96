@@ -1,14 +1,14 @@
 <!-- Add a profile banner -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #282c34;">
   <p align="center">
-    <img src="https://github.com/anshupatil/images/blob/main/your-banner-image.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+    <img src="https://github.com/Smokein96/Smokein96/blob/main/github-header-image.png?raw=true" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
   </p>
 </div>
 
 <!-- Introduction -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
   <h1 align="center" style="font-family: 'Minecraft', monospace; color: #FFD700; font-size: 2.5em; text-shadow: 1px 1px 5px #000;">
-    👋 Hello, I'm Anshu Patil!
+    
   </h1>
   <p align="center" style="font-family: 'Arial', sans-serif; color: #FFFFFF; font-size: 1.1em; max-width: 800px; margin: 0 auto;">
     <i>BCA student passionate about Artificial Intelligence and Machine Learning. I enjoy exploring innovative solutions through programming, particularly with C and Python. I'm eager to learn, grow, and collaborate on exciting projects that push the boundaries of technology.</i>
