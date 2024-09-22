@@ -26,7 +26,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" style="margin: 0 15px;">
     </a>
     <a href="mailto:anshu.patil2005@gmail.com" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_icon.svg" alt="Email" width="50" height="50" style="margin: 0 15px;">
+      <img src="https://github.com/Smokein96/Smokein96/blob/main/gmail.png" alt="Email" width="50" height="50" style="margin: 0 15px;">
     </a>
   </p>
 </div>
