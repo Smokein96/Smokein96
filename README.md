@@ -2,7 +2,7 @@
 
 ---
 
-### 📫 Connect with Me  
+<h2 align="center">📫 Connect with Me</h2>
 <p align="center">
   <a href="https://www.instagram.com/an2_hu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Skills  
+<h2 align="center">🛠️ Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
