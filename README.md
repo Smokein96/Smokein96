@@ -32,7 +32,7 @@ Student • Full Stack/ Backend Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb,mysql,javascript,html,css,c,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb,mysql,javascript,git,vscode&theme=dark" />
 
 </p>
 
